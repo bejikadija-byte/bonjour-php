@@ -1,2 +1,3 @@
-bonjour tout le monde kadija
-bonjour 
+<?php
+echo "Bonjour tout le monde";
+?>
